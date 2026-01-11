@@ -15,3 +15,9 @@ Similarly, the camera app uses the device's own camera and allows the user to in
 When clicking the 'uni work' folder, a small sphere pops up on the screen which continues expanding until the user clicks it to 'submit' their assignment. Whilst the sphere is expanding, there is a ticking noise playing to symbolise the time slipping away and when the user 'submits' their assignment they are rewarded with a 'ding' noise and a notification that praises them.
 
 In addition to this, I have also created two interactive widgets which are on the desktop. There is a music widget and a 'to do list'. The music widget plays a song when the play button is clicked and the to do list has an itinerary which can be ticked off.
+
+### References Used 
+https://www.youtube.com/watch?v=FlBRSIz5AcQ - For the ml5 tutorial.
+https://sound-effects.bbcrewind.co.uk/search?q=ticking - Ticking Sound Effect
+https://pixabay.com/sound-effects/search/ding/ - 'ding' sound effect. 
+Song used in music widget - Best Part by Daniel Caesar. 
